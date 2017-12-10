@@ -39,6 +39,7 @@ staticman:
   moderation             : # true
   path                   : # "/_data/comments/{options.slug}" (default)
   requiredFields         : # ['name', 'email', 'message']
+  theme                  : minimal-mistakes-jekyll
   transforms:
     email                : # "md5"
   generatedFields:
