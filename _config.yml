@@ -8,8 +8,8 @@
 minimal_mistakes_skin    : "neon"
 
 # Site Settings
-locale                   : "en"
-title                    : "YunZS Blog"
+locale                   : "zh-CN"
+title                    : "雲中手的博客"
 title_separator          : "|"
 name                     : "耿奕伟"
 description              : "一个码农的学习的学习历程"
